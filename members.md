@@ -288,3 +288,4 @@ Format:
 | Zachary Richeu | [mach1723](https://github.com/mach1723) ||
 | Zuber U | [zuberuber](https://github.com/zuberuber) | I know Python(starting OOP), HTML and some CSS, beginner with PHP, JS. I have a lot of free time and i am looking forward to learn more Python, web-development and web-design. I'd also like to learn more how to write practical code, OOP paradigm and design patterns. ||
 | حبيب الامين | [phySi0](https://github.com/phySi0) | I know a fair bit, I want to learn a lot more. My priorities are Objective-C, Python (2 and 3) and C. ||
+| Sam Rae | [samrae7](https://github.com/samrae7) | I have just graduated from General Assembly's Front End Web Development course so I know HTML, CSS, JavaScript(jQuery). Looking to learn and contribute to real projects. I also currently work as a content producer for the web so I could help with content.  |
